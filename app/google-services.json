@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350457537651",
+    "project_id": "tarea7gestortareas",
+    "storage_bucket": "tarea7gestortareas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350457537651:android:5457a1c421ccd33ef6b606",
+        "android_client_info": {
+          "package_name": "com.example.tarea_7_gestortareas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBF1GdPESUfBTqrhDpNvi7eMZ495joEOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
